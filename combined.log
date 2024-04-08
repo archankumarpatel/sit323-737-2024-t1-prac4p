@@ -1,0 +1,12 @@
+{"level":"info","message":"Parameters 4 and 2 received for addition","service":"calculate-service"}
+{"level":"info","message":"4 and 2 are valid numbers ","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for substraction","service":"calculate-service"}
+{"level":"info","message":"4 and 2 are valid numbers ","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"4 and 2 are valid numbers ","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and 2 received for division","service":"calculate-service"}
+{"level":"info","message":"4 and 2 are valid numbers ","service":"calculate-service"}
+{"level":"info","message":"Parameters NaN and 2 received for division","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrect data","service":"calculate-service"}
+{"level":"info","message":"Parameters 4 and NaN received for division","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrect data","service":"calculate-service"}
